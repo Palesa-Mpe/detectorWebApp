@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+  
+}
+
+.score{
+
+    text-align: center;
+    border: solid 1px;
+
+    height: 300px;
+    width:300px;
+
+}
